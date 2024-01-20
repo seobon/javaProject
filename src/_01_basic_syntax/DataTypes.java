@@ -4,7 +4,7 @@ package _01_basic_syntax;
 // - 사용되기 전에 선언되어야 함
 // - OS에 따라 자료형 길이 변하지 않음
 // - "비객체" 타입  -> null 값 가질 수 없음
-//
+
 // Reference Type (참조형)
 // - java.lang.Object 상속받음
 // - 기본형이 아니면 모두 참조형

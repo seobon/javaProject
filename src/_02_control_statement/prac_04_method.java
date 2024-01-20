@@ -1,8 +1,6 @@
 package _02_control_statement;
 
-import java.util.Scanner;
-
-public class prac_04 {
+public class prac_04_method {
 //    public void calc(double x, double y) {
 //        System.out.printf("덧셈 결과: %.1f", x + y).println();
 //        System.out.printf("뺄셈 결과: %.1f", x - y).println();
@@ -34,7 +32,7 @@ public class prac_04 {
     }
 
     public static void main(String[] args) {
-        prac_04 pr = new prac_04();
+        prac_04_method pr = new prac_04_method();
 
 //        System.out.println("숫자를 두 개 입력하세요 : ");
 //        double n1 = sc.nextDouble();
