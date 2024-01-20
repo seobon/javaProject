@@ -1,8 +1,8 @@
-package _02_control_statement;
+package _01_basic_syntax;
 
 import java.util.Scanner;
 
-public class prac_03 {
+public class prac_03_for {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-package _02_control_statement;
+package _01_basic_syntax;
 
 import java.util.Scanner;
 
