@@ -2,7 +2,7 @@ package preparation;
 
 import java.util.Scanner;
 
-public class preparation_01_basic_syntax {
+public class Preparation_01_basic_syntax {
     public static void main(String[] args) {
 //        System.out.println("안녕");
 

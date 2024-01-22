@@ -2,7 +2,7 @@ package preparation;
 
 import java.util.Scanner;
 
-public class preparation_02_if_for {
+public class Preparation_02_if_for {
     public static void main(String[] args) {
 
 //        int number = 5;
