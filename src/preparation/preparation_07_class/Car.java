@@ -1,4 +1,4 @@
-package preparation;
+package preparation.preparation_07_class;
 
 public class Car {
     public String name;

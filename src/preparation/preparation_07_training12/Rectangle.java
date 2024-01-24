@@ -1,4 +1,4 @@
-package preparation.training12;
+package preparation.preparation_07_training12;
 
 import java.util.Scanner;
 
@@ -6,8 +6,8 @@ import java.util.Scanner;
 public class Rectangle {
     // 필드(변수) 선언
     // 필드(변수): width, height
-    public int width;
-    public int height;
+    private int width;
+    private int height;
 
     // 생성자: width 와 height 설정할 2개의 숫자를 매개변수로 받기.
     public Rectangle(int widthNum, int heightNum) {
@@ -21,9 +21,9 @@ public class Rectangle {
         return width * height; // 사각형의 넓이를 계산하여 반환하는 메소드
     }
     public static void main(String[] args) {
-        // 객체 생성 시에 width 와 height을 사용자에게 입력 받아 생성자로 넘겨주기
+        // 객체 생성 시에 width 와 height 을 사용자에게 입력 받아 생성자로 넘겨주기
 
-        // width 와 height을 사용자에게 입력 받아
+        // width 와 height 을 사용자에게 입력 받아
         System.out.println("width 와 height 를 입력해주세요.");
         Scanner scanner = new Scanner(System.in);
         int inputWidth = scanner.nextInt();
