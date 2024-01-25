@@ -1,4 +1,4 @@
-package preparation.preparation_07_training12;
+package preparation.preparation_07_trainingClass;
 
 import java.util.Scanner;
 
@@ -20,6 +20,7 @@ public class Rectangle {
     public int getArea() {
         return width * height; // 사각형의 넓이를 계산하여 반환하는 메소드
     }
+
     public static void main(String[] args) {
         // 객체 생성 시에 width 와 height 을 사용자에게 입력 받아 생성자로 넘겨주기
 
@@ -59,5 +60,9 @@ public class Rectangle {
         // Rectangle 클래스로 만들어낸 객체(인스턴스)에 방금 입력받은 수를 넣어
         // 이미 선언된 필드(변수) width 와 height 에 값을 할당하고,
         // 인스턴스 안에도 있을 메소드(getArea)를 사용해 넓이를 구하는 함수이다.
+
+
+
+
     }
 }
