@@ -34,7 +34,7 @@ class Container<T extends Movable> {
 }
 public class GenericEx2 {
     public static void main(String[] args) {
-       // Box<String> stringBox = new Box<String>();
+       // Box<String> stringBox = new Box<String>(); // error
         Box<Double> doubleBox = new Box<>();
 
         // case 2
